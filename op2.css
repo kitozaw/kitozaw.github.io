@@ -1,0 +1,159 @@
+body {
+background: #f3f2f3;
+color: #000000;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 12px;
+
+}
+#wrapper {
+      background: #FFFFFF;
+      margin: 60px auto;
+      width: 900px;
+      height: 1024px;
+      <img src
+      }
+#header {
+      background-image: url(map.jpg);
+      background-repeat: no-repeat;
+      background-size: 930px 177px;
+      /*background: black;*/
+      height: 110px;
+      img: url(сайт.jpg);
+      width: 900px;
+
+      }
+#bg{
+      background-image: url(map.jpg);
+}
+
+.text{
+      padding-left: 200px;
+}
+#panel{
+border:30px outset red;
+
+
+}
+#back{
+      color: grey;
+
+}
+
+.ayak{
+      color: blue;
+      font-size:33px;
+      font-family: Bell MT;
+      text-align: center;
+}
+.lor{
+    color: #BA55D3;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+}
+
+#navigation {
+      background: #a2a2a2;
+      width: 900px;
+      height: 20px;
+      }
+      #menu {
+      background: #333333;
+      float: left;
+      width: 200px;
+      height: 624px;
+      }
+      #content {
+      background-image:url(https://genshin-info.ru/local/templates/genshin/images/bg_xs.jpg) ;
+      width: 900px;
+      height: 653px;
+      }
+#footer {
+      background: #838283;
+      height: 180px;
+      width: 900px;
+      }
+.colon {
+      white-space: nowrap;
+}
+.colom {
+ white-space: normal;
+    display: inline-block;
+    border-width: 292px;
+    border-style: groove;
+    border-color: yellow;
+    width: 292px;
+    height: 345px;
+    vertical-align: top;
+    background: white;
+    margin: auto;
+}
+.colons {
+      margin-right: 4%;
+}
+.off {
+      color: #9932CC;
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.atack {
+      color:#black ;
+      font-size:16px ;
+      font-weight: 500;
+      margin: 0;
+      text-align: center;
+}
+.icon{
+      background-image:url(icon.png);
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      display: block; margin: 0 auto;
+}
+.texts{
+      text-align: left;
+      font-size: 15px;
+      color: #gray;
+}
+.icons1{
+      background-image: url(art.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
+.icons2{
+      background-image: url(art2.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
+.icons3{
+      background-image: url(art3.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
+.icons4{
+      background-image: url(art4.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
