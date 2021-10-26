@@ -84,3 +84,8 @@ body {
       font-size: 18px;
     padding-top: 20px;
 }
+.none{
+      font-size: 0.5px;
+      color: rgba(0, 0, 0, 0.0);
+}
+
