@@ -69,3 +69,18 @@ body {
     text-align: center;
     font-size: 20px;
 }
+.last{
+      text-align: center;
+      display: flex;
+
+}
+.inf{
+      text-align: center;
+      font-size: 34px;
+    padding-top: 20px;
+}
+.infa{
+      text-align: center;
+      font-size: 18px;
+    padding-top: 20px;
+}
