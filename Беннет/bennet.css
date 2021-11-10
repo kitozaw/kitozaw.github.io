@@ -238,3 +238,7 @@ border:30px outset red;
          margin: 10px 10px;
          border: solid 2px;
 }
+.none{
+      font-size: 0.5px;
+      color: rgba(0, 0, 0, 0.0);
+}
