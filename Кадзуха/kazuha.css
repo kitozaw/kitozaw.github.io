@@ -10,13 +10,11 @@ background-repeat: no-repeat;
 
 
 }
-
-#wrapper{
-  margin: 0 auto;
-    width: 1036px;
-    height: 1200px;
+    #wrapper{
+      margin:auto;
+      width:93%;
+      height:75%
 }
-
 #header {
      background-image: url(map.jpg);
       background-repeat: no-repeat;
